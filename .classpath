@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/HOME/Desktop/ALL ACC PROJS/Search Engine-1/Search Engine/Search Engine 1/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HOME/Desktop/ALL ACC PROJS/Search Engine-1/Search Engine/Search Engine 1/jazzy-core-0.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HOME/Desktop/ALL ACC PROJS/Search Engine-1/Search Engine/Search Engine 1/jsoup-1.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HOME/Desktop/ALL ACC PROJS/Languages/Languages/lib/jsoup-1.8.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HOME/Desktop/ALL ACC PROJS/Languages/Languages/lib/jsoup-1.8.1-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
